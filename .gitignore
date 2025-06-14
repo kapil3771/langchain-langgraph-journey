@@ -1,0 +1,22 @@
+# Virtual environment
+langgraph-env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# Env files and secrets
+.env
+*.env
+*.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode config (optional)
+.vscode/
