@@ -21,8 +21,6 @@ A personal journey into building real-world, production-ready applications using
 - Multi-turn **conversational memory** using FAISS
 - LangGraph agent built with **state management**
 - Uses **local embeddings** + **local LLM** for context-aware replies
-- Automatic **FAISS save/load** on each chat
-- Basic **Gradio UI wrapper**
 
 ### ▶️ To Run
 
