@@ -10,7 +10,6 @@ A personal journey into building real-world, production-ready applications using
 - 📎 **Embeddings**: `sentence-transformers/all-MiniLM-L6-v2`
 - 📂 **Vector Store**: FAISS (local, persistent)
 - 🧩 **Framework**: LangGraph + LangChain
-- 💻 **UI**: Gradio (chatbot wrapper)
 - 💾 **Local Only**: 100% local inference, no API keys required
 
 ---
