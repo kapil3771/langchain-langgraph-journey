@@ -74,6 +74,11 @@ langchain-langgraph-journey/
 ├── day01_setup_installation/
 ├── day02_echo_node/
 ├── day03_step_flow/
+├── day04_conditional_branching/
+├── day05_tool_using_agent/
+├── day06_memory_basics/
+├── day07_multi_turn_memory_agent/
+├── day08_branching_agent/
 ├── requirements.txt         # 📦 Pinned dependencies
 ├── .gitignore               # 🚫 Files and folders to ignore in Git
 └── README.md                # 📘 You’re reading it!
@@ -83,12 +88,18 @@ langchain-langgraph-journey/
 
 ## 📅 Progress Tracking
 
-| Day | Topic                     | Status     |
-|-----|---------------------------|------------|
-| 01  | LangGraph Installation    | ✅ Done     |
-| 02  | Echo Node + StateGraph    | ✅ Done     |
-| 03  | Step Flows                | ✅ Understood |
-| ... | ...                       | 🔜 Coming Soon |
+| Day  | Topic                                          | Status            |
+|------|------------------------------------------------|-------------------|
+| 01   | LangGraph Installation                         | ✅ Done            |
+| 02   | Echo Node + StateGraph                         | ✅ Done            |
+| 03   | Step Flows                                     | ✅ Mastered        |
+| 04   | Conditional Branching                          | ✅ Mastered        |
+| 05   | Tool-using Agents                              | ✅ Done            |
+| 06   | Memory Basics (Stateful Agent)                 | ✅ Done            |
+| 07   | Multi-turn Memory Agent + FAISS                | ✅ Mastered        |
+| 08.1 | Branching Agent (Classic + Graph + Gradio UI)  | ✅ Completed       |
+| 08.2 | ReAct Agent with LangGraph                     | 🔜 Next up         |
+| ...  | ...                                            | 🔜 Coming Soon     |
 
 ---
 
