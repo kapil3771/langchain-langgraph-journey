@@ -19,4 +19,4 @@ __pycache__/
 Thumbs.db
 
 # VSCode config (optional)
-.vscode/
+.vscode/faiss_index/
