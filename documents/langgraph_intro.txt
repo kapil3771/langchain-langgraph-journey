@@ -1,0 +1,3 @@
+LangGraph is a stateful graph execution framework built on top of LangChain. 
+It allows developers to build multi-turn agents, workflows, and memory-augmented systems with custom control flow.
+LangGraph supports branching, conditional logic, and persistence.

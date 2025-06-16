@@ -1,0 +1,3 @@
+OpenAI provides powerful foundation models like GPT-4 and ChatGPT APIs.
+These can be integrated into applications using LangChain and are often used for summarization, chatbots, and creative tasks.
+OpenAI also powers tools like Whisper (ASR) and DALL·E (image generation).

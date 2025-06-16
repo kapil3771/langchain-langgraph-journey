@@ -1,0 +1,3 @@
+This file contains some unrelated text to test if the file search tool can skip it.
+Nothing about AI, LangChain, or Gemma here.
+Just a bunch of filler lines and dummy data for negative case testing.

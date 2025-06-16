@@ -1,0 +1,3 @@
+Gemma is a family of open-weight, state-of-the-art AI models released by Google DeepMind. 
+It’s designed to be efficient and easy to fine-tune locally with various tools such as HuggingFace, Ollama, and LangChain.
+Gemma 2B is suitable for lightweight agents running on personal devices.
