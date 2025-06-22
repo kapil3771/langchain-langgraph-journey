@@ -33,18 +33,18 @@ This Self-RAG system solves those issues by introducing:
 
 ```mermaid
 graph LR
-A[User Input] --> B[Retriever]
-B --> C[TrustRAG Filter]
-C --> D[Grader]
-D --> E{Router (Retry Logic)}
-E -->|ISREL| F[Corrector + Rerun Retrieval]
-E -->|ISSUP| G[Context Merger]
-E -->|ISUSE| I[Answer Node]
-E -->|correct| I[Answer Node]
-G --> I
-F --> D
-I --> J[Hallucination Detector]
-J --> K((END))
+    A[User Input] --> B[Retriever]
+    B --> C[TrustRAG Filter]
+    C --> D[Grader]
+    D --> E{{Router Retry Logic}}
+    E -->|ISREL| F[Corrector + Rerun Retrieval]
+    E -->|ISSUP| G[Context Merger]
+    E -->|ISUSE| I[Answer Node]
+    E -->|correct| I
+    F --> D
+    G --> I
+    I --> J[Hallucination Detector]
+    J --> K((END))
 ```
 
 ---
