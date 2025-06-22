@@ -1,0 +1,8 @@
+What is High Blood Pressure?
+-----------------------------
+- Blood pressure (BP) is measured as systolic/diastolic (e.g., 112/78 mm Hg).
+- Normal: < 120/80 mm Hg; Elevated: 120–129/<80; High BP (hypertension): ≥130/≥80 mm Hg  [oai_citation:0‡heart.org](https://www.heart.org/-/media/files/health-topics/answers-by-heart/what-is-high-blood-pressure.pdf?utm_source=chatgpt.com).
+- Often has no symptoms, hence called a “silent killer.” Regular checks are essential  [oai_citation:1‡heart.org](https://www.heart.org/-/media/files/health-topics/answers-by-heart/what-is-high-blood-pressure.pdf?utm_source=chatgpt.com).
+- Risk factors: age, genetics, overweight, high salt intake, inactivity, alcohol, smoking  [oai_citation:2‡who.int](https://www.who.int/news-room/fact-sheets/detail/hypertension?utm_source=chatgpt.com).
+- Complications include heart attack, stroke, kidney disease, vision loss  [oai_citation:3‡who.int](https://www.who.int/news-room/fact-sheets/detail/hypertension?utm_source=chatgpt.com).
+- Management: lifestyle changes (diet, exercise, weight loss, stress reduction) plus medication as advised by a doctor  [oai_citation:4‡en.wikipedia.org](https://en.wikipedia.org/wiki/Hypertension?utm_source=chatgpt.com).

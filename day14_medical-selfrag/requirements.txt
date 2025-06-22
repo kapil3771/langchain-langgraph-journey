@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+ollama
+faiss-cpu
+sentence-transformers
+tqdm
+pydantic
+pypdf
+pydantic-core
+jupyter
+python-dotenv

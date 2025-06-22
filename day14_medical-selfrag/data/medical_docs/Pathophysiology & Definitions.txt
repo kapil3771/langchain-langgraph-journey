@@ -1,0 +1,8 @@
+Overview of Hypertension
+------------------------
+- Defined as consistent arterial blood pressure ≥130/80 mm Hg (current consensus), or ≥140/90 mm Hg in some guidelines .
+- Types:
+  • Primary (essential) hypertension: ~90–95%, due to lifestyle/genetics  [oai_citation:5‡en.wikipedia.org](https://en.wikipedia.org/wiki/Hypertension?utm_source=chatgpt.com).
+  • Secondary hypertension: ~5–10%, from conditions like kidney disease, endocrine disorders, or medications .
+- Key physiologic driver: overactive renin–angiotensin–aldosterone system → arterial constriction → raised BP  [oai_citation:6‡en.wikipedia.org](https://en.wikipedia.org/wiki/Pathophysiology_of_hypertension?utm_source=chatgpt.com).
+- Sustained high BP damages heart, brain, kidneys, eyes, vessels, leading to major health issues  [oai_citation:7‡cdc.gov](https://www.cdc.gov/high-blood-pressure/about/index.html?utm_source=chatgpt.com).
