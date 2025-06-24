@@ -72,17 +72,7 @@ python adv_checkpointing_demo.py --resume \
 
 ---
 
-## 📤 Push to GitHub
 
-After updating files:
-
-```bash
-git add .
-git commit -m "✅ Add Day 15 - Checkpointing + README update"
-git push origin main
-```
-
----
 
 ## 🧠 Concepts Mastered So Far
 
