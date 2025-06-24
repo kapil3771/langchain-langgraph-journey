@@ -55,7 +55,7 @@ langchain-langgraph-journey/
 ### ✅ Setup
 
 ```bash
-git clone https://github.com/kapilkapil/langchain-langgraph-journey.git
+git clone https://github.com/kapil3771/langchain-langgraph-journey.git
 cd langchain-langgraph-journey
 pip install -r requirements.txt
 ```
